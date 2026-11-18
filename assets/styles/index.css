@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background: url("../images/bg.jpg");
+  background-size: contain; }
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  background: #9fea61; }
+
+.header {
+  height: 250px;
+  background: #e84040; }
+
+.carusel {
+  height: 250px;
+  background: #5b43c7; }
+
+.gallery {
+  height: 250px;
+  background: #40e5e8; }
+
+.footer {
+  height: 200px;
+  background: #eaea61; }
